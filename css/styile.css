@@ -1,0 +1,209 @@
+:root{
+
+    --color-1:#ff274b;
+    --color-2:#f7bcf7;
+    --color-3:#ffffff;
+    --color-4:#0364a4;
+    --color-4:#22282a;
+    --padding: 8%;
+
+   
+
+}
+
+* {
+    padding: 0;
+    margin: 0;
+   box-sizing: border-box;
+   background-color: var(--color-4);
+
+
+
+
+}
+
+#n{
+    background-repeat: no-repeat;
+    height: 40px;
+
+}
+
+html{
+
+    font-size: 16px;
+    
+
+}
+
+
+    
+
+
+
+.n{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    left: 600px;
+    top: -27px;
+}
+
+ .n a:hover{
+
+    color: var(--color-2);
+ }
+
+.n a {
+
+    margin: 20px;
+    text-decoration: none;
+    font-size: 30px;
+    color: var(--color-1);
+
+
+}
+
+
+.a p{
+
+    color: var(--color-2);
+    position: relative;
+    left: 60px;
+    margin: 30px;
+}
+
+
+
+.main{
+
+     width: 50px;
+     height: 100vh;
+     
+     
+}
+
+.logo{
+
+    color: var(--color-3);
+    font-size: 2.2rem;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    cursor: pointer;
+    padding-top: 2.8rem;
+    padding-left: var(--padding);
+    padding-right: var(--padding);
+    position: relative;
+    top: 30px;
+    left: 30px;
+   
+}
+
+span{
+   color: var(--color-1);
+}
+
+.log{
+    
+    position: relative;
+    left: 1250px;
+    top: -80px;
+
+    
+}
+
+.log button{
+    background-color: var(--color-1);
+    font-size: 20px;
+    border-radius: 70%;
+}
+
+.log button:hover{
+
+    background-color: var(--color-3);
+    cursor: pointer;
+}
+
+div h2{
+    color: var(--color-1);
+    position: relative;
+    left: 60px;
+
+
+   
+}
+
+
+
+
+ .img-1{
+
+    position: relative;
+    left: 650px;
+    width: 50px;
+
+    
+}
+
+
+
+.img-2{
+
+    position: relative;
+    left: 850px;
+    bottom: 400px;
+    width: 500px;
+    border-radius: 50%;
+
+
+
+}
+  
+
+.section-1 p{
+    color:var(--color-1);
+    white-space: 7px;
+    position: relative;
+    bottom: 300px;
+    font-weight: bold;
+    font-size: 20px;
+
+
+}
+
+
+
+.img-3{
+
+    width: 500px;
+    position: relative;
+    left: 900px;
+    bottom: 300px;
+}
+
+.img-4{
+    width: 600px;
+    position: relative;
+    right: 300px;
+    bottom: 300px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
